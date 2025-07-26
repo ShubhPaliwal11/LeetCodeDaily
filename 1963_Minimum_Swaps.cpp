@@ -16,5 +16,4 @@ public:
         return (swap+1)/2;
     }
 };
-
 // the intution is really cool , i must revise this!
